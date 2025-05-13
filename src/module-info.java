@@ -5,5 +5,5 @@
  * @author Saul
  *
  */
-module SicronizaçãoRelogiosAlgoritmoBerkeley {
+module AlgoritmoBerkeley {
 }
